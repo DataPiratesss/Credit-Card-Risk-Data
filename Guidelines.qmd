@@ -1,0 +1,43 @@
+---
+title: "MTH312: Credit Card Risk Data"
+format: pdf
+editor: visual
+---
+
+## Credit Card Complaints against Major US Banks
+
+The Consumer Financial Protection Bureau in the United States maintain a consumer complaint database regarding complains on various Credit Card Banks. These complaints are customer reported. Below are some of the questions of interest to us and associated tasks:
+
+-   Analyze the trends in UDAAP (Unfair, Deceptive, or Abusive Acts or Practices) complaints over time. Are the number of UDAAP complaints increasing significantly over the last two years?
+
+-   Investigate which banks show the steepest growth in complaints volume. Can you quantify this growth using time-series analysis? Identify trend and potential reasons for these trends.
+
+-   Predict future UDAAP risks using machine learning and forecasting models. Do complaints correlate with macroeconomic indicators such as inflation and unemployment rates?
+
+-   Utilize data processing techniques to extract top themes from the complaints data. What are the most frequent UDAAP-related terms for each bank?
+
+-   Compare the complaints with delay in resolution with leading US banks(JP Morgan Chase, Discover, American Express, Capital One, etc.) and is there any underlying themes in these complaints?
+
+-   Evaluate the relationship between negative sentiment in complaints and the duration of resolution times for specific banks. Does negative sentiment correlate with longer resolution times?
+
+## [Additional Questions]{.underline}
+
+-   Examine the impact of regulatory enforcement actions on UDAAP complaint volumes. Do complaints decrease after actions by the Consumer Financial Protection Bureau (CFPB)?
+
+-   Assess if deceptive complaints tend to increase before regulatory actions. Is there a noticeable pattern?
+
+## Dataset
+
+<https://www.consumerfinance.gov/data-research/consumer-complaints/search/?dateRange=All&date_received_max=2025-03-30&date_received_min=2011-12-01&page=1&searchField=all&size=25&sort=created_date_desc&tab=List>
+
+## Evaluation
+
+1.  A slide deck of 10 slides (strict) due on **Sunday, April 13th (8:00pm).**
+
+2.  6 groups will be shortlisted to give a presentation
+
+3.  A final presentation will be on Tuesday, **April 15th** during class.
+
+4.  Report will be due on Monday, **April 13th, 10:00pm**.
+
+5.  Report will be 15/20 and the chosen groups will be given points out of 5.\
